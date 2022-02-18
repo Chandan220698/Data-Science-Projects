@@ -6,3 +6,4 @@
         
 ### 2. Flask Database API:
 ##### A web application to connect with different databases and perform basic CURD operation using web interface.
+##### Databases that we can interact are MySQL, MongoDB and Cassandra
